@@ -9,6 +9,7 @@ import Typography from '@mui/material/Typography';
 import CS from "../Images/CS.jpg";
 import java from "../Images/java.jpg";
 import react from "../Images/react.jpg";
+
 import DisplayImage from "../Images/paper.jpg";
 
 export default function MediaCard() {
